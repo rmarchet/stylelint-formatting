@@ -1,0 +1,8 @@
+# Ignore configuration files
+.stylelintrc.json
+
+# Ignore test directory
+test/
+
+# Ignore development scripts
+scripts/

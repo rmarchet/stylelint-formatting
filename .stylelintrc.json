@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "./stylelint/index.js"
+  ],
+  "rules": {
+    "@rmarchet/block-opening-brace-space-before": true,
+    "@rmarchet/space-after-colon": true,
+    "@rmarchet/space-around-combinator": true,
+    "@rmarchet/space-before-important": true,
+    "@rmarchet/trailing-spaces": true
+  }
+}

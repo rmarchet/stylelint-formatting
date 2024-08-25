@@ -1,0 +1,21 @@
+{
+  "name": "stylelint-formatting",
+  "version": "1.0.0",
+  "description": "This project contains formatting rules for Stylelint.",
+  "main": "rules/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmarchet/stylelint-formatting.git"
+  },
+  "author": "Roberto Marchetti",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rmarchet/stylelint-formatting/issues"
+  },
+  "homepage": "https://github.com/rmarchet/stylelint-formatting#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
